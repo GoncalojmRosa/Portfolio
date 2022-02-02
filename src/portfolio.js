@@ -1,6 +1,6 @@
 
 const settings = {
-  isSplash: true, // Change this to true if you want to use the splash screen.
+  isSplash: false, // Change this to true if you want to use the splash screen.
   useCustomCursor: true, // Change this to false if you want the good'ol cursor
   googleTrackingID: "UA-174238252-2",
 };
@@ -10,7 +10,7 @@ const greeting = {
   title: "Hello 👋.",
   title2: "Gonçalo",
   logo_name: "goncalo.R()",
-  nickname: "harry / picleric",
+  nickname: "aspi",
   full_name: "Gonçalo Rosa",
   subTitle:
     "Full Stack Developer, Open Source and Cyber Security Enthusiast 🔥. Always learning.",
