@@ -1,4 +1,3 @@
-
 const settings = {
   isSplash: false, // Change this to true if you want to use the splash screen.
   useCustomCursor: true, // Change this to false if you want the good'ol cursor
@@ -15,7 +14,7 @@ const greeting = {
   subTitle:
     "Full Stack Developer, Open Source and Cyber Security Enthusiast 🔥. Always learning.",
   resumeLink:
-    "https://docs.google.com/document/d/1A_jWRG74Rst427tg1izLa6vRXclS9_9F856jWJPJlDY/edit?usp=sharing",
+    "https://drive.google.com/file/d/1_ce9LdHMgfjxkXBCXSvqTNqVej_xpxjp/view?usp=sharing",
   mail: "goncalojmrosa@gmail.com",
 };
 
@@ -23,7 +22,6 @@ const socialMediaLinks = {
   github: "https://github.com/GoncalojmRosa",
   linkedin: "https://www.linkedin.com/in/gon%C3%A7alo-rosa-8a7a5b1a7/",
   gmail: "goncalojmrosa@gmail.com",
-
 };
 
 const skills = {
@@ -35,7 +33,7 @@ const skills = {
         "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
         "⚡ Building responsive website front end using ReactJS, NextJS",
         "⚡ Creating application backend in Node & Express",
-        "⚡ Integration of third party services such as Firebase/ Heroku / Netifly"
+        "⚡ Integration of third party services such as Firebase/ Heroku / Netifly",
       ],
       softwareSkills: [
         {
@@ -225,13 +223,13 @@ const degrees = {
       alt_name: "SSEC",
       duration: "2021 - Present",
       descriptions: [
-        "⚡ I'm currently pursuing my Degree in Computer Engineering."
+        "⚡ I'm currently pursuing my Degree in Computer Engineering.",
         // "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
         // "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
         // "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
       ],
       website_link: "https://www.ipcb.pt/",
-    }
+    },
   ],
 };
 
@@ -261,7 +259,7 @@ const certifications = {
       logo_path: "react.png",
       alt_name: "PHP",
       color_code: "#2AAFED",
-    }
+    },
   ],
 };
 
@@ -283,8 +281,7 @@ const experience = {
           logo_path: "anpri.png",
           duration: "May 2021 - Jul 2021",
           location: "Work from Home",
-          description:
-          `Train, manage and provide guidance to junior software development staff.
+          description: `Train, manage and provide guidance to junior software development staff.
           Work closely with the Project Manager and Team Leads on change request functions.
           Develops new and maintains existing applications.
           Increased productivity and problem-solving technics by 20%.
@@ -299,13 +296,12 @@ const experience = {
           logo_path: "anpri.png",
           duration: "May 2020 - Jul 2020",
           location: "Work From Home",
-          description:
-          `Application to manage an E-Commerce.
+          description: `Application to manage an E-Commerce.
           I Primarily used PHP. 50% of my work was doing backend development, others 40% was designing database schemas, and the last 10% was creating the Website Design using only HTML, CSS & JS.
           `,
-          
+
           color: "#ee3c26",
-        }
+        },
       ],
     },
   ],
@@ -342,7 +338,8 @@ const projects = {
       id: "0",
       name: "Proffy",
       url: "https://github.com/harikanani/AutomateInstaPyBot",
-      description: "Plataform where we can find people to teach us some school subjects (for ReactJS & NodeJS learning purposes)",
+      description:
+        "Plataform where we can find people to teach us some school subjects (for ReactJS & NodeJS learning purposes)",
       languages: [
         {
           name: "NodeJS",
@@ -369,7 +366,7 @@ const projects = {
           iconifyClass: "logos-react",
         },
       ],
-    }
+    },
   ],
 };
 
